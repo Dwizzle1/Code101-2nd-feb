@@ -1,0 +1,20 @@
+h1 {color:white;
+background-color:black;
+text-align:center;
+font-size: 20 px;
+display:block;
+}
+
+body {
+    background-repeat: no-repeat;
+    background-image: url("pvs.png");
+width: 500px;
+height: 500px;
+
+}
+
+nav {color:red;
+background-color:black;
+text-align:center;
+font-size:18 px;}
+
